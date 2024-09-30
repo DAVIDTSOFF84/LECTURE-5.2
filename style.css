@@ -1,0 +1,20 @@
+.container {
+  height: 200px;
+  width: 200px;
+  background-color: blueviolet;
+  border-radius: 100px;
+  margin: auto;
+}
+
+.container2 {
+  height: 10rem;
+  width: 15rem;
+  background-color: rgb(217, 140, 17);
+  border-radius: 100px;
+  margin: auto;
+}
+body{
+  background-image: url(./photo-1513628253939-010e64ac66cd.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
